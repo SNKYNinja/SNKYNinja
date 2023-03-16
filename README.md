@@ -7,7 +7,7 @@
 
 - 📚 I’m currently learning **HTML, CSS,**
 
-- 💬 Ask me about **javascript, nodejs, discord.js**
+- 💬 Ask me about **Javascript, Node.js, Discord.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
