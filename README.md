@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ninja</h1>
 <h3 align="center">A Freelancer For Extensive Nodejs Projects</h3>
-<img align = "right" alt="Coding" width="400" sr="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif">
+<img align = "right" alt="Coding" width="400" src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snkyninja&label=Profile%20views&color=0e75b6&style=flat" alt="snkyninja" /> </p>
 
