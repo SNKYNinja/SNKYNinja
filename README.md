@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SNKYNinja/SNKYNinja/blob/main/a7c15d6423aa85feaf201a783aa9541c.jpg?raw=true"width: 80%;" />
+  <img src="https://i.pinimg.com/originals/6a/2b/95/6a2b95a6815da88058c8b55619e81a26.gif"width: 80%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ninja</h1>
