@@ -11,6 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://discord.com/users/662898453764112408">
+    <img src="https://discord.c99.nl/widget/theme-4/662898453764112408.png"/>
+  </a>
+</p>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
