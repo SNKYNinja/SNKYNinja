@@ -1,4 +1,7 @@
-<image align="Centre" src="https://github.com/SNKYNinja/SNKYNinja/blob/main/a7c15d6423aa85feaf201a783aa9541c.jpg?raw=true">
+<div style="text-align:center">
+  <img src="https://github.com/SNKYNinja/SNKYNinja/blob/main/a7c15d6423aa85feaf201a783aa9541c.jpg?raw=true" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Ninja</h1>
 <h3 align="center">A Freelancer For Extensive Nodejs Projects</h3>
