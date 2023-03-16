@@ -1,3 +1,4 @@
+<image align ="Left" src="https://i.pinimg.com/564x/4a/23/3b/4a233b4050d3db210e9afc4ab87c55ea.jpg">
 <h1 align="center">Hi 👋, I'm Ninja</h1>
 <h3 align="center">A Freelancer For Extensive Nodejs Projects</h3>
 
