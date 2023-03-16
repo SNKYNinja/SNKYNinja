@@ -1,4 +1,4 @@
-<image align ="Left" src="https://i.pinimg.com/564x/4a/23/3b/4a233b4050d3db210e9afc4ab87c55ea.jpg">
+<image align ="Left" src="https://media.discordapp.net/attachments/1021392762379194429/1085864822052241418/4a233b4050d3db210e9afc4ab87c55ea.jpg?width=528&height=612">
 <h1 align="center">Hi 👋, I'm Ninja</h1>
 <h3 align="center">A Freelancer For Extensive Nodejs Projects</h3>
 
