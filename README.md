@@ -17,7 +17,7 @@
 <h3 align="left">🐱‍💻 Connect with me:</h3>
 <p align="left">
   <a href="https://discord.com/users/662898453764112408">
-    <img src="https://discord.c99.nl/widget/theme-1/662898453764112408.png"/>
+    <img src="https://discord.c99.nl/widget/theme-2/662898453764112408.png"/>
   </a>
 </p>
 <p align="left">
