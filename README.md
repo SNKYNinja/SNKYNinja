@@ -44,10 +44,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Dashboard&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Dashboard&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=default" />
 </a>
 
 <br />
