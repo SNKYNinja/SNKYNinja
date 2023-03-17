@@ -56,6 +56,3 @@
 <a href="https://twitter.com/ninja_snky">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/SNKYNinja">
-  <img align="right" alt="Ninja | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord.svg" />
-</a>
