@@ -37,7 +37,7 @@
 | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snkyninja&" alt="snkyninja" /></p> |
 | -------------------------- |
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ninja's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNKYNinja&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ninja's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNKYNinja&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">🐧 Top Repositories:</h3>
