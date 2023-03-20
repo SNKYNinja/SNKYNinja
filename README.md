@@ -51,8 +51,3 @@
 <a href="https://twitter.com/ninja_snky">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
-<details open>
-    <summary><h3>🐍 Contribution Snake</h3></summary>
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-</details>
