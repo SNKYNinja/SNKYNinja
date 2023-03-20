@@ -15,6 +15,7 @@
 - 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
 <br/><h3 align="left">🐱‍💻 Connect with me:</h3>
+                     
 <a href="https:///discordapp.com/users/662898453764112408"><img width="40%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a>
                                                                                                                                               
 
