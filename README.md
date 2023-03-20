@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Empress**
 
-- 📚 I’m currently learning **HTML, CSS,**
+- 📚 I’m currently learning **HTML, CSS and Express**
 
 - 💬 Ask me about **Javascript, Node.js, Discord.js**
 
@@ -28,7 +28,7 @@
 <h3 align="left">🐱‍👓 Github Stats:</h3>
 
  
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snkyninja&" alt="snkyninja" /></p> |
+| <a href="https://github.com/SNKYNinja"><img width="50%" align="left" src="https://streak-stats.demolab.com?user=snkyninja&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a> |
 | -------------------------- |
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ninja's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNKYNinja&layout=compact&theme=radical&hide_border=true" /></a> |
