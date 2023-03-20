@@ -12,10 +12,10 @@
 
 - 📚 I’m currently learning **HTML, CSS and Express**
 
-- 💬 Ask me about **Javascript, Node.js, Discord.js**
+- 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
 <h3 align="left">🐱‍💻 Connect with me:</h3>
-<a href="https://github.com/What-Question-Mark"><img width="40%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a><br/>
+<a href="https://github.com/What-Question-Mark"><img width="40%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a>
                                                                                                                                               
 
 <h3 align="left">🐱‍👤 Languages and Tools:</h3>
