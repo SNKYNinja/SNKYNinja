@@ -15,13 +15,7 @@
 - 💬 Ask me about **Javascript, Node.js, Discord.js**
 
 <h3 align="left">🐱‍💻 Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.com/users/662898453764112408">
-    <img src="https://discord.c99.nl/widget/theme-4/662898453764112408.png"/>
-  </a>
-</p>
-<p align="left">
-</p>
+<a href="https://github.com/What-Question-Mark"><img width="50%" align="right" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a>
 
 <h3 align="left">🐱‍👤 Languages and Tools:</h3>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -61,5 +55,3 @@
     <summary><h3>🐍 Contribution Snake</h3></summary>
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 </details>
-
-<a href="https://github.com/What-Question-Mark"><img width="50%" align="right" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a>
