@@ -15,7 +15,7 @@
 - 💬 Ask me about **Javascript, Node.js, Discord.js**
 
 <h3 align="left">🐱‍💻 Connect with me:</h3>
-<a href="https://github.com/What-Question-Mark"><img width="50%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a><br/>
+<a href="https://github.com/What-Question-Mark"><img width="40%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a><br/>
                                                                                                                                               
 
 <h3 align="left">🐱‍👤 Languages and Tools:</h3>
