@@ -15,7 +15,7 @@
 - 💬 Ask me about **Javascript, Node.js, Discord.js**
 
 <h3 align="left">🐱‍💻 Connect with me:</h3>
-<a href="https://github.com/What-Question-Mark"><img width="50%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a><br>
+<a href="https://github.com/What-Question-Mark"><img width="50%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a><br/>
                                                                                                                                               
 
 <h3 align="left">🐱‍👤 Languages and Tools:</h3>
@@ -24,9 +24,9 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><br>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><br/>
 
-<h3 align="left">🐱‍👓 Github Stats:</h3><br>
+<h3 align="left">🐱‍👓 Github Stats:</h3><br/>
 
  
 | <a href="https://github.com/SNKYNinja"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a> |
