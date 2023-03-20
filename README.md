@@ -16,7 +16,10 @@
 
 <br/><h3 align="left">🐱‍💻 Connect with me:</h3>
                      
-<a href="https:///discordapp.com/users/662898453764112408"><img width="40%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a> <br/>                                                                                                                                         
+<a href="https:///discordapp.com/users/662898453764112408"><img width="40%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a> 
+<br/>
+<br/>
+<br/>
 
 <h3 align="left">🐱‍👤 Languages and Tools:</h3>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
