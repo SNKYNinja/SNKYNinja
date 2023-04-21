@@ -34,7 +34,7 @@
 | <a href="https://github.com/SNKYNinja"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a> |
 | -------------------------- |
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ninja's github stats" /></a> | <p align="center" >  
+<p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical"/>
   </a>
