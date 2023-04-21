@@ -32,7 +32,8 @@
 <h3 align="left">🐱‍👓 Github Stats:</h3>
                 
 <p alighn="center" >
-  <a href="https://github.com/SNKYNinja"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?            user=SNKYNinja&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <a href="https://github.com/SNKYNinja">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   </a>
   </p>
 
