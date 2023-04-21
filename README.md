@@ -31,13 +31,13 @@
 
 <h3 align="left">🐱‍👓 Github Stats:</h3>
                 
-<p align="center" >
+<p align="left" >
   <a href="https://github.com/SNKYNinja">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   </a>
   </p>
 
-<p align="center" >  
+<p align="right" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical"/>
   </a>
