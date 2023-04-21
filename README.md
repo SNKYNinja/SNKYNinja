@@ -29,7 +29,7 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br/>
 
-<h1 align="left">🐱‍👓 Github Stats:</h3>
+<h2 align="left">🐱‍👓 Github Stats:</h3>
                 
 <p align="left" >
   <a href="https://github.com/SNKYNinja">
@@ -45,16 +45,12 @@
 
 <h3 align="left">🐧 Top Repositories:</h3>
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Dashboard&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=default" />
 </a>
-
-<br />
-<br />
 
 <a href="https://twitter.com/ninja_snky">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
