@@ -51,6 +51,7 @@
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=default" />
 </a>
+<br />
 
 <a href="https://twitter.com/ninja_snky">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
