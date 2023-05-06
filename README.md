@@ -56,6 +56,6 @@
 <a href="https://twitter.com/ninja_snky">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-                                                                                                                                                 <a href="https://twitter.com/ninja_snky">
+                                                                                                                                                                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://static-00.iconduck.com/assets.00/link-symbol-emoji-512x510-5sm6odr3.png" />
 </a>
