@@ -46,10 +46,10 @@
 <h3 align="left">🐧 Top Repositories:</h3>
 
 <a href="https://github.com/SNKYNinja/Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Dashboard&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Dashboard&theme=radical" />
 </a>
 <a href="https://github.com/SNKYNinja/poru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=radical" />
 </a>
 <br />
 
