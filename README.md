@@ -58,5 +58,5 @@
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
                                                                                                                                                                  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
-  <img align="right" alt="Ninja | Twitter" width="21px" src="https://static-00.iconduck.com/assets.00/link-symbol-emoji-512x510-5sm6odr3.png" />
+  <img align="right" alt="Ninja | Twitter" width="21px" src="https://pbs.twimg.com/media/FC3az-KaAAAIKBt.png" />
 </a>
