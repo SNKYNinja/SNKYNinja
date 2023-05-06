@@ -45,10 +45,10 @@
 
 <h3 align="left">🐧 Top Repositories:</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SNKYNinja/Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Dashboard&theme=default" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/SNKYNinja/poru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=default" />
 </a>
 <br />
