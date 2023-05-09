@@ -45,7 +45,7 @@
 
 <h3 align="left">🐧 Top Repositories:</h3>
 
-<a href="https://github.com/SNKYNinja/Dashboard">
+<a href="https://github.com/SNKYNinja/Empress-Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Empress-Dashboard&theme=radical" />
 </a>
 <a href="https://github.com/SNKYNinja/poru">
