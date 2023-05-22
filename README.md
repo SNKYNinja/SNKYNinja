@@ -18,7 +18,7 @@
 
 <br/><h3 align="left">🐱‍💻 Connect with me:</h3>
                      
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" /> 
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" /> 
 <br/>
 <br/>
 
