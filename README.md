@@ -18,7 +18,7 @@
 
 <br/><h3 align="left">🐱‍💻 Connect with me:</h3>
                      
-<a href="https:///discordapp.com/users/662898453764112408"><img width="40%" align="left" src="https://lanyard.cnrad.dev/api/662898453764112408?bg=272822"></a> 
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" /> 
 <br/>
 <br/>
 
