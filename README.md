@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
-## 🐱‍👤 Languages and Tools:
+## 🐱‍👤 Languages and Tools: 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -51,7 +51,9 @@
 </a>
 <a href="https://github.com/SNKYNinja/poru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=radical" />
-<a>                                                                                                                
+<a>                                                               
+
+</br>
 <a href="https://twitter.com/ninja_snky" target="_blank" rel="noopener noreferrer">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
