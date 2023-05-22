@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
-## 🐱‍👤 Languages and Tools: 
+## 🐱‍👤 Languages and Tools:
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -26,7 +26,7 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## 🐱‍👓 Github Stats:
-                
+
 <p align="left" >
   <a href="https://github.com/SNKYNinja">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D">
@@ -38,20 +38,11 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical"/>
   </a>
  </p> 
-                                                                                                            
+
 
 ## 🐱‍💻 Connect with me:
-                     
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" />
 
-### 🐧 Top Repositories:
-
-<a href="https://github.com/SNKYNinja/Empress-Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Empress-Dashboard&theme=radical" />
-</a>
-<a href="https://github.com/SNKYNinja/poru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=radical" />
-<a>                                                               
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000"
 
 </br>
 <a href="https://twitter.com/ninja_snky" target="_blank" rel="noopener noreferrer">
