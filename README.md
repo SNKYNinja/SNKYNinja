@@ -44,7 +44,7 @@
                      
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" />
 
-## 🐧 Top Repositories:
+### 🐧 Top Repositories:
 
 <a href="https://github.com/SNKYNinja/Empress-Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Empress-Dashboard&theme=radical" />
