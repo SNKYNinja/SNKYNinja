@@ -37,12 +37,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical"/>
   </a>
- </p> 
-
+ </p>
 
 ## 🐱‍💻 Connect with me:
 
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000"
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000">
 
 </br>
 <a href="https://twitter.com/ninja_snky" target="_blank" rel="noopener noreferrer">
