@@ -16,10 +16,6 @@
 
 - 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
-<br/><h3 align="left">🐱‍💻 Connect with me:</h3>
-                     
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" /> 
-
 <h3 align="left">🐱‍👤 Languages and Tools:</h3>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -52,6 +48,10 @@
 </a>
 <br />
 <br />
+
+<br/><h3 align="left">🐱‍💻 Connect with me:</h3>
+                     
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" />                                                                                                                       
 
 <a href="https://twitter.com/ninja_snky" target="_blank" rel="noopener noreferrer">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
