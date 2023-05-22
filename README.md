@@ -18,12 +18,12 @@
 
 ## 🐱‍👤 Languages and Tools:
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
-<img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png">
-<img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## 🐱‍👓 Github Stats:
                 
@@ -40,26 +40,21 @@
  </p> 
                                                                                                             
 
-# 🐱‍💻 Connect with me:
+## 🐱‍💻 Connect with me:
                      
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" />
 
-</br>
-
-# 🐧 Top Repositories:
+## 🐧 Top Repositories:
 
 <a href="https://github.com/SNKYNinja/Empress-Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=Empress-Dashboard&theme=radical" />
 </a>
 <a href="https://github.com/SNKYNinja/poru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=radical" />
-</a>
-<br />
-<br />                                                                                                                    
-
+<a>                                                                                                                
 <a href="https://twitter.com/ninja_snky" target="_blank" rel="noopener noreferrer">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-                                                                                                                                                                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://pbs.twimg.com/media/FC3az-KaAAAIKBt.png" />
 </a>
