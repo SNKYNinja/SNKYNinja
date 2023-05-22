@@ -28,15 +28,20 @@
                 
 <p align="left" >
   <a href="https://github.com/SNKYNinja">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D">
   </a>
-  </p>
+ </p>
 
 <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical"/>
   </a>
-  </p> 
+ </p> 
+                                                                                                            
+
+<br/><h3 align="left">🐱‍💻 Connect with me:</h3>
+                     
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" />   
 
 <h3 align="left">🐧 Top Repositories:</h3>
 
@@ -47,11 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNKYNinja&repo=poru&theme=radical" />
 </a>
 <br />
-<br />
-
-<br/><h3 align="left">🐱‍💻 Connect with me:</h3>
-                     
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000" />                                                                                                                       
+<br />                                                                                                                    
 
 <a href="https://twitter.com/ninja_snky" target="_blank" rel="noopener noreferrer">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
