@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Empress**
 
-- 📚 I’m currently learning **HTML, CSS and Express**
+- 📚 I’m currently learning **Full Stack Web Development (MERN)**
 
 - 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
