@@ -29,6 +29,7 @@
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" />
 </div>
 <br>
+<br>
 
 ## 🐱‍👓 Github Stats:
 
