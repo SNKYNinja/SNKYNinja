@@ -17,7 +17,7 @@
 - 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
 ## 🐱‍👤 Languages and Tools:
-
+<br>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img class="icon" align="left" alt="HTML" width="32px" src="./src/icons/html.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img class="icon" align="left" alt="CSS" width="32px" src="./src/icons/css.svg" />
