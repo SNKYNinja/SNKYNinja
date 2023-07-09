@@ -28,6 +28,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="./src/icons/git.svg"/>
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" />
 </div>
+<br>
 
 ## 🐱‍👓 Github Stats:
 
