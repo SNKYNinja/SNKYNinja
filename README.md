@@ -25,6 +25,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/typescript.svg" />
   <a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" />
   <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="React.js" width="32px" src="./src/icons/react.svg" />
+  <a href="https://isocpp.org/" target="_blank"><img class="icon" align="left" alt="C++" width="32px" src="./src/icons/c++.svg" />
   <a href="https://www.mongodb.com/" target="_blank"> <img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" />
   <a href="https://www.python.org/" target="_blank"><img class="icon" align="left" alt="Python" width="32px" src="./src/icons/python.svg" />
   <br/><br/>
