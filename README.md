@@ -23,11 +23,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img class="icon" align="left" alt="CSS" width="32px" src="./src/icons/css.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/javascript.svg" />
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="Typescript" width="32px" src="./src/icons/typescript.svg" />
+  <a href="https://isocpp.org/" target="_blank"><img class="icon" align="left" alt="C++" width="32px" src="./src/icons/C++.svg" />
   <a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" />
   <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="React.js" width="32px" src="./src/icons/react.svg" />
-  <a href="https://isocpp.org/" target="_blank"><img class="icon" align="left" alt="C++" width="32px" src="./src/icons/C++.svg" />
-  <a href="https://www.mongodb.com/" target="_blank"> <img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" />
+  <a href="https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="Next.js" width="32px" src="./src/icons/nextjs.svg" />
   <br/><br/>
+  <a href="https://www.mongodb.com/" target="_blank"> <img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" />
   <a href="https://www.python.org/" target="_blank"><img class="icon" align="left" alt="Python" width="32px" src="./src/icons/python.svg" />
   <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="./src/icons/git.svg"/>
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" />
