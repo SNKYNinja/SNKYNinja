@@ -10,9 +10,9 @@
   <img src="https://visitcount.itsvg.in/api?id=SNKYNinja&label=Profile%20Views&color=10&icon=6&pretty=true" />
 </a>
 
-- 🔭 I’m currently working on **Empress**
+- 🔭 I’m currently working on **[UniCon](https://github.com/Ethics03/UniCon)** + **personal projects**
 
-- 📚 I’m currently learning **Full Stack Web Development (MERN)**
+- 📚 I’m currently learning **Full Stack Web Development** + **DevOps**
 
 - 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
 
