@@ -2,8 +2,8 @@
   <img src="https://github.com/SNKYNinja/SNKYNinja/blob/main/assets/HuTao.gif?raw=true"width: 80%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ninja</h1>
-<h3 align="center">A Freelancer For Extensive Nodejs Projects</h3>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">A Freelancer For Extensive Nodejs/Nextjs Projects</h3>
 <img align = "right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1021392762379194429/1085873862052421682/devytbs-612dcd6e-3720-4ac2-a50a-23f4cdf20679.gif?width=462&height=375">
 
 <a href="https://visitcount.itsvg.in">
