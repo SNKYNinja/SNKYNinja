@@ -51,7 +51,7 @@
  </p>
 
 <p align="left" >
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,css,tailwind,react,nextjs,nodejs,postgres,mongodb,figma,cpp,java,html" /></a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snky_ninja&show_icons=true&theme=dark&locale=en&layout=compact" alt="snky_ninja" /></p>
 </p>
 
 ## 🐱‍💻 Connect with me:
