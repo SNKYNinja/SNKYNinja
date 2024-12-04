@@ -38,20 +38,14 @@
 
 ## 🐱‍👓 Github Stats:
 
-<p align="left" >
-  <a href="https://github.com/SNKYNinja">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D">
-  </a>
- </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&show_icons=true&theme=radical&locale=en&layout=compact" alt="snkyninja" /></p>
 
-<p align="left" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical"/>
-  </a>
- </p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical" />
+</p>
 
-<p align="left" >
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&show_icons=true&theme=dark&locale=en&layout=compact" alt="snkyninja" /></p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ## 🐱‍💻 Connect with me:
