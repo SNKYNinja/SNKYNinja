@@ -50,6 +50,10 @@
   </a>
  </p>
 
+<p align="left" >
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,css,tailwind,react,nextjs,nodejs,postgres,mongodb,figma,cpp,java,html" /></a>
+</p>
+
 ## 🐱‍💻 Connect with me:
 
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000">
