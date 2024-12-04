@@ -51,7 +51,7 @@
  </p>
 
 <p align="left" >
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snky_ninja&show_icons=true&theme=dark&locale=en&layout=compact" alt="snky_ninja" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&show_icons=true&theme=dark&locale=en&layout=compact" alt="snkyninja" /></p>
 </p>
 
 ## 🐱‍💻 Connect with me:
