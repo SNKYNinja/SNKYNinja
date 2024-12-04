@@ -14,7 +14,7 @@
 
 - 📚 I’m currently learning **Full Stack Web Development** + **DevOps**
 
-- 💬 Ask me about **Javascript, Node.js, Discord.js** <br/>
+- 💬 Ask me about **Programming & Problem Solving Tasks** <br/>
 
 ## 🐱‍👤 Languages and Tools:
 <br>
