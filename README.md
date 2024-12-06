@@ -17,7 +17,6 @@
 - 💬 Ask me about **Programming & Problem Solving Tasks** <br/>
 
 ## 🐱‍👤 Languages and Tools:
-<br>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img class="icon" align="left" alt="HTML" width="32px" src="./src/icons/html.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img class="icon" align="left" alt="CSS" width="32px" src="./src/icons/css.svg" />
@@ -38,14 +37,16 @@
 
 ## 🐱‍👓 Github Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&show_icons=true&theme=radical&locale=en&layout=compact" alt="snkyninja" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false&border_radius=12" alt="snkyninja" />
+</p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical&hide_border=false&border_radius=12&hide_title=true" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=12" />
 </p>
 
 ## 🐱‍💻 Connect with me:
