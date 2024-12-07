@@ -2,7 +2,7 @@
   <img src="https://github.com/SNKYNinja/SNKYNinja/blob/main/assets/HuTao.gif?raw=true"width: 80%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>, I'm Aditya</h1>
 <h3 align="center">A Freelancer For Extensive Nodejs/Nextjs Projects</h3>
 <img align = "right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1021392762379194429/1085873862052421682/devytbs-612dcd6e-3720-4ac2-a50a-23f4cdf20679.gif?width=462&height=375">
 
@@ -54,7 +54,7 @@
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000">
 
 </br>
-<a href="https://twitter.com/ninja_snky" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/aditya_byte" target="_blank" rel="noopener noreferrer">
   <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
