@@ -10,7 +10,7 @@
   <img src="https://visitcount.itsvg.in/api?id=SNKYNinja&label=Profile%20Views&color=10&icon=6&pretty=true" />
 </a>
 
-- 🔭 I’m currently working on **[UniCon](https://github.com/Ethics03/UniCon) - Startup** + **personal projects**
+- 🔭 I’m currently working on **personal projects**
 
 - 📚 I’m currently learning **Full Stack Web Development** + **DevOps**
 
