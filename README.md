@@ -3,20 +3,9 @@
 </p>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>, I'm Aditya</h1>
-<h3 align="center">A Freelancer For Extensive Nodejs/Nextjs Projects</h3>
-<img align = "right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1021392762379194429/1085873862052421682/devytbs-612dcd6e-3720-4ac2-a50a-23f4cdf20679.gif?width=462&height=375">
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SNKYNinja&label=Profile%20Views&color=10&icon=6&pretty=true" />
-</a>
 
-- 🔭 I’m currently working on **personal projects**
-
-- 📚 I’m currently learning **Full Stack Web Development** + **DevOps**
-
-- 💬 Ask me about **Programming & Problem Solving Tasks** <br/>
-
-## 🐱‍👤 Languages and Tools:
+### Languages & Tools:
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img class="icon" align="left" alt="HTML" width="32px" src="./src/icons/html.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img class="icon" align="left" alt="CSS" width="32px" src="./src/icons/css.svg" />
@@ -35,7 +24,7 @@
 <br>
 <br>
 
-## 🐱‍👓 Github Stats:
+### Github Stats:
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false&border_radius=12" alt="snkyninja" />
@@ -49,14 +38,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=12" />
 </p>
 
-## 🐱‍💻 Connect with me:
+### Connect with me:
 
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000">
 
 </br>
-<a href="https://twitter.com/aditya_byte" target="_blank" rel="noopener noreferrer">
-  <img align="right" alt="Ninja | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
-  <img align="right" alt="Ninja | Twitter" width="21px" src="https://pbs.twimg.com/media/FC3az-KaAAAIKBt.png" />
-</a>
