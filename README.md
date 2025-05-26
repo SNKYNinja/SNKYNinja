@@ -40,6 +40,8 @@
 
 ### Connect with me:
 
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000">
+<a href="https://discord.com/users/662898453764112408">
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000&idleMessage=Probably%20doing%20something%20else..."/>
+</a>
 
 </br>
