@@ -27,15 +27,15 @@
 ### Github Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false&border_radius=12" alt="snkyninja" />
-</p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&&show_icons=true&theme=radical&hide_border=false&border_radius=12&hide_title=true" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&layout=compact&theme=transparent&langs_count=6&hide_border=true&title_color=FE428E&text_color=FFF&card_width=320" alt="snkyninja" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SNKYNinja&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=12" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&layout=compact&theme=transparent&langs_count=6&hide_border=true&title_color=FE428E&text_color=FFF&card_width=350" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats-three-blush.vercel.app?user=SNKYNinja&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&stroke=EB545400&currStreakNum=FE541F&sideNums=FE541F&currStreakLabel=FE428E&sideLabels=FE428E&excludeDaysLabel=FE428E&dates=FFFFFF&ring=FE541F&fire=FE541F" />
 </p>
 
 ### Connect with me:
