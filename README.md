@@ -1,11 +1,27 @@
-<p align="center">
-  <img src="https://github.com/SNKYNinja/SNKYNinja/blob/main/assets/HuTao.gif?raw=true"width: 80%;" />
-</p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Hi, I'm Aditya Chaudhary
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>, I'm Aditya</h1>
+[![Twitter Follow](https://img.shields.io/twitter/follow/aditya_byte?style=social)](https://twitter.com/intent/follow?screen_name=aditya_byte)
+[![GitHub followers](https://img.shields.io/github/followers/snkyninja?label=Follow&style=social)](https://github.com/snkyninja/?tab=follow)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ryadi/)](https://www.linkedin.com/in/ryadi/)
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ryadi)](https://dev.to/ryadi)
+[![Gmail Badge](https://img.shields.io/badge/-aditya.chaudhary@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:aditya.chaudhary0523@gmail.com)](mailto:aditya.chaudhary0523@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Ninja-5865F2?style=social&logo=discord&logoColor=5865F2)](https://discordapp.com/users/662898453764112408)
+
+[![wakatime](https://wakatime.com/badge/user/70df6fac-44b1-4924-8500-cac173ba6a32.svg)](https://wakatime.com/@ryadi)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fryadi&logo=leetcode&logoColor=yellow)](https://leetcode.com/ryadi/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=snkyninja&color=red&style=flat)](https://komarev.com/ghpvc/?username=snkyninja)
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/ashleymavericks)](https://t.me/ashleymavericks)
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@)](https://medium.com/@) -->
+
+I’m **[@Aditya](https://ryadi.vercel.app/)** , a `full-stack developer` who loves crafting `clean`, `functional web experiences` `◜ᴗ◝` 
+- 🐸 ﹫ I enjoy turning ideas into smooth, interactive products with thoughtful design.
+- 🧭 ﹫ Currently exploring better ways to build fast, scalable frontends.
+- 🐧 ﹫ Big fan of Linux, open-source tools, and minimal setups.
+- ☕ ﹫ I like simplicity, well-written code, and good coffee.
+- 🐬 ﹫ Always learning, building, and experimenting.
 
 
-### Languages & Tools:
+<br>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img class="icon" align="left" alt="HTML" width="32px" src="./src/icons/html.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img class="icon" align="left" alt="CSS" width="32px" src="./src/icons/css.svg" />
@@ -24,24 +40,9 @@
 <br>
 <br>
 
-### Github Stats:
+![](https://raw.githubusercontent.com/snkyninja/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/snkyninja/github-stats-transparent/output/generated/languages.svg)
 
-<p>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkyninja&layout=compact&theme=transparent&langs_count=6&hide_border=true&title_color=FE428E&text_color=FFF&card_width=320" alt="snkyninja" />
-</p>
-
-<p>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SNKYNinja&layout=compact&theme=transparent&langs_count=6&hide_border=true&title_color=FE428E&text_color=FFF&card_width=350" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats-three-blush.vercel.app?user=SNKYNinja&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&stroke=EB545400&currStreakNum=FE541F&sideNums=FE541F&currStreakLabel=FE428E&sideLabels=FE428E&excludeDaysLabel=FE428E&dates=FFFFFF&ring=FE541F&fire=FE541F" />
-</p>
-
-### Connect with me:
-
-<a href="https://discord.com/users/662898453764112408">
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000&idleMessage=Probably%20doing%20something%20else..."/>
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/662898453764112408)
 
 </br>
