@@ -8,7 +8,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Ninja-5865F2?style=social&logo=discord&logoColor=5865F2)](https://discordapp.com/users/662898453764112408)
 
 [![wakatime](https://wakatime.com/badge/user/70df6fac-44b1-4924-8500-cac173ba6a32.svg)](https://wakatime.com/@ryadi)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fryadi&logo=leetcode&logoColor=yellow)](https://leetcode.com/ryadi/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=%235E5E5E&color=%23B8860B&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fryadi&logo=leetcode&logoColor=yellow)](https://leetcode.com/ryadi/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=snkyninja&color=red&style=flat)](https://komarev.com/ghpvc/?username=snkyninja)
 
 I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves crafting `clean`, `functional web experiences` `◜ᴗ◝`
@@ -23,10 +23,11 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
 
 <div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="32px" src="./src/icons/typescript.svg" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" width="32px" src="./src/icons/C++.svg" /></a>
   <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" /></a>
   <a href="https://react.dev/" target="_blank"><img align="left" alt="React.js" width="32px" src="./src/icons/react.svg" /></a>
   <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" width="32px" src="./src/icons/nextjs.svg" /></a>
+  <a href="" target="_blank"><img align="left" alt="Next.js" width="32px" src="./src/icons/tailwindcss.svg" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" width="32px" src="./src/icons/C++.svg" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="32px" src="./src/icons/python.svg" /></a>
   <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="32px" src="./src/icons/git.svg" /></a>
