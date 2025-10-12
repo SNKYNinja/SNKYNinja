@@ -13,14 +13,15 @@
   projects:
     - url: https://github.com/ryadios/zenith
 
-- name: Express
-  logo: Express
-  url: https://expressjs.com/
+- name: Typescript
+  logo: TypeScript
+  url: https://www.typescriptlang.org/
+  color: '#3178C6'
   color: '#000000'
   projects:
     - url: https://github.com/ryadios/echo
 
-- name: Problem solving
+- name: Problem Solving
   logo: LeetCode
   url: https://leetcode.com/
   color: '#FFA116'
