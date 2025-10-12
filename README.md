@@ -22,16 +22,16 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
 <br>
 
 <div>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="32px" src="./src/icons/typescript.svg" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" /></a>
-  <a href="https://react.dev/" target="_blank"><img align="left" alt="React.js" width="32px" src="./src/icons/react.svg" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" width="32px" src="./src/icons/nextjs.svg" /></a>
-  <a href="" target="_blank"><img align="left" alt="Next.js" width="32px" src="./src/icons/tailwindcss.svg" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" width="32px" src="./src/icons/C++.svg" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" /></a>
-  <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="32px" src="./src/icons/python.svg" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="32px" src="./src/icons/git.svg" /></a>
-  <a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="32px" src="./assets/icons/typescript.svg" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="32px" src="./assets/icons/nodejs.svg" /></a>
+  <a href="https://react.dev/" target="_blank"><img align="left" alt="React.js" width="32px" src="./assets/icons/react.svg" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" width="32px" src="./assets/icons/nextjs.svg" /></a>
+  <a href="" target="_blank"><img align="left" alt="Next.js" width="32px" src="./assets/icons/tailwindcss.svg" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" width="32px" src="./assets/icons/C++.svg" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="32px" src="./assets/icons/mongodb.svg" /></a>
+  <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="32px" src="./assets/icons/python.svg" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="32px" src="./assets/icons/git.svg" /></a>
+  <a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="32px" src="./assets/icons/github.svg" /></a>
 </div>
 
 <br><br>
