@@ -17,7 +17,6 @@
   logo: TypeScript
   url: https://www.typescriptlang.org/
   color: '#3178C6'
-  color: '#000000'
   projects:
     - url: https://github.com/ryadios/echo
 
