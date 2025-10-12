@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Hi, I'm Aditya Chaudhary
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Hi, I'm Aditya Chaudhary [@ryadi](https://ryadi.vercel.app/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aditya_byte?style=social)](https://twitter.com/intent/follow?screen_name=aditya_byte)
 [![GitHub followers](https://img.shields.io/github/followers/snkyninja?label=Follow&style=social)](https://github.com/snkyninja/?tab=follow)
