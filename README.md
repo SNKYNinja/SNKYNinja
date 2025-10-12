@@ -39,6 +39,6 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
 ![](https://raw.githubusercontent.com/snkyninja/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/snkyninja/github-stats-transparent/output/generated/languages.svg)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/662898453764112408)
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/662898453764112408) -->
 
 <br>
