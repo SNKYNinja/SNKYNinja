@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Hi, I'm Aditya Chaudhary [@ryadi](https://ryadi.vercel.app/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aditya_byte?style=social)](https://twitter.com/intent/follow?screen_name=aditya_byte)
-[![GitHub followers](https://img.shields.io/github/followers/snkyninja?label=Follow&style=social)](https://github.com/snkyninja/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/ryadios?label=Follow&style=social)](https://github.com/ryadios/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ryadi/)](https://www.linkedin.com/in/ryadi/)
 [![DEV Badge](https://img.shields.io/badge/-Dev-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ryadi)](https://dev.to/ryadi)
 [![Gmail Badge](https://img.shields.io/badge/-aditya.chaudhary@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:aditya.chaudhary0523@gmail.com)](mailto:aditya.chaudhary0523@gmail.com)
@@ -9,7 +9,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/70df6fac-44b1-4924-8500-cac173ba6a32.svg)](https://wakatime.com/@ryadi)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=%235E5E5E&color=%23B8860B&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fryadi&logo=leetcode&logoColor=yellow)](https://leetcode.com/ryadi/)
-[![ProfileViews](https://komarev.com/ghpvc/?username=snkyninja&color=red&style=flat)](https://komarev.com/ghpvc/?username=snkyninja)
+[![ProfileViews](https://komarev.com/ghpvc/?username=ryadios&color=red&style=flat)](https://komarev.com/ghpvc/?username=ryadios)
 
 I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves crafting `clean`, `functional web experiences` `◜ᴗ◝`
 
@@ -36,8 +36,8 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
 
 <br><br>
 
-![](https://raw.githubusercontent.com/snkyninja/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/snkyninja/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/ryadios/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ryadios/github-stats-transparent/output/generated/languages.svg)
 
 <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/662898453764112408?bg=00000000&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/662898453764112408) -->
 
