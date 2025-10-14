@@ -16,7 +16,7 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
 - 🐸 ﹫ I enjoy turning ideas into smooth, interactive products with thoughtful design.
 - 🧭 ﹫ Currently exploring better ways to build fast, scalable frontends.
 - 🐧 ﹫ Big fan of Linux, open-source tools, and minimal setups.
-- ☕ ﹫ I like simplicity, well-written code, and good coffee.
+- ☕ ﹫ I like simplicity, well-written code, and a good coffee.
 - 🐬 ﹫ Always learning, building, and experimenting.
 
 <br>
