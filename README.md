@@ -4,6 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ryadios?label=Follow&style=social)](https://github.com/ryadios/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ryadi/)](https://www.linkedin.com/in/ryadi/)
 [![DEV Badge](https://img.shields.io/badge/-Dev-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ryadi)](https://dev.to/ryadi)
+[![npm](https://img.shields.io/badge/npm-ryadi-white?logo=npm)](https://www.npmjs.com/~ryadi)
 [![Gmail Badge](https://img.shields.io/badge/-aditya.chaudhary@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:aditya.chaudhary0523@gmail.com)](mailto:aditya.chaudhary0523@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Ninja-5865F2?style=social&logo=discord&logoColor=5865F2)](https://discordapp.com/users/662898453764112408)
 
